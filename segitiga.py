@@ -1,8 +1,11 @@
-#nama : masriadi
-#kelas sistem informasi B
-#nim 
+# Nama : Muhammad Naufal Al Varzy
+# Nim : D0425514
+# Luas segitiga
 
-alas_segitiga = int(input("masukan alas segitiga :"))
-tinggi_segitiga = int(input("masukan tinggi segitiga : "))
-luas = alas_segitiga * tinggi_segitiga
-print(f"alas : {alas_segitiga} x {tinggi_segitiga} : {luas}")
+L = int(input("masukkan Alas segitiga: "))
+T = int(input("Masukkan tinggi segitiga: "))
+
+luas = int((L * T ) / 2)
+
+print('luas segitiga adalah: ' , luas)
+
