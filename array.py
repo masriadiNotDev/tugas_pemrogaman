@@ -1,5 +1,5 @@
-# nama : M naufal al varzy
-# nim : D0425514
+# nama : masriadi 
+# nim : 
 # Array
 
 array = [4, 7, 6, 8 ,9]
@@ -10,5 +10,6 @@ print(array[3]) # masukkan indexnya/posisi elemennya
 
 # ini jumlah elemenya
 print("Jumlah elemen: ", (len(array)))
+
 
 
