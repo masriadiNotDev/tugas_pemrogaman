@@ -1,5 +1,5 @@
-# nama : M naufal al varzy
-# nim : D0425514
+# nama :masriadi
+# nim : 
 # Dictionary
 
 # contoh data senjata pada game
@@ -37,5 +37,6 @@ else:
 
 # cek lenghtnya
 print(len(weapon))
+
 
     
